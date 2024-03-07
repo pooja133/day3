@@ -5,4 +5,4 @@ jobs:
           steps:
 
             - run: node --version,
-            - run: node --version,
+            - run: npm --version,
